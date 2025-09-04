@@ -15,6 +15,7 @@ Features
 ✅ Student comparison functionality
 
 Project Structure
+
 Models/: Contains all data classes (Student, Instructor, Course, Exam, Questions)
 
 Repos/: Repository classes for data management
