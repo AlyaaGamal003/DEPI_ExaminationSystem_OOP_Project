@@ -14,17 +14,6 @@ Features
 
 ✅ Student comparison functionality
 
-Usage
-The system provides a menu-driven interface to:
-
-Add/Edit/View Students, Instructors, and Courses
-
-Create exams with different question types
-
-Take exams and get immediate results
-
-View performance reports and compare students
-
 Project Structure
 Models/: Contains all data classes (Student, Instructor, Course, Exam, Questions)
 
